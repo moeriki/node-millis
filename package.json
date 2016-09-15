@@ -1,0 +1,41 @@
+{
+  "name": "millis",
+  "version": "2.0.0",
+  "description": "Because code is read by humans.",
+  "author": {
+    "name": "Dieter Luypaert"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moeriki/millis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Moeriki/millis/issues"
+  },
+  "homepage": "https://github.com/Moeriki/millis#readme",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "devDependencies": {
+    "eslint": "3.5.0",
+    "eslint-config-muriki": "4.2.0",
+    "eslint-plugin-import": "1.14.0",
+    "eslint-plugin-node": "2.0.0",
+    "jest": "15.1.1"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "*.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 100,
+        "functions": 100,
+        "lines": 100,
+        "statements": 100
+      }
+    }
+  }
+}
