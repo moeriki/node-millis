@@ -2,6 +2,8 @@
 
 Millis is a set of functions that converts different measures (minutes, hours, etc..) to milliseconds.
 
+[![Build Status](https://travis-ci.org/Moeriki/millis.svg?branch=master)](https://travis-ci.org/Moeriki/millis)
+
 ---
 
 Because code is read by humans we don't like this.
