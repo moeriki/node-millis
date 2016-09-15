@@ -63,7 +63,7 @@ const ONE_YEAR = year();
 
 ### In seconds
 
-Because often timestamps are in unix format. You might need your duration seconds instead of milliseconds.
+Because often timestamps are in unix format. You might need your duration in seconds instead of milliseconds.
 
 ```javascript
 const hours = require('millis/hours');
@@ -73,7 +73,7 @@ const ONE_YEAR = 2 * hours() * inSeconds();
 
 ### Extending Number prototype
 
-If you don't understand the implication of extending a native prototype \[[1](http://perfectionkills.com/extending-native-builtins/))\] \[[2](http://stackoverflow.com/questions/14034180/why-is-extending-native-objects-a-bad-practice)\], don't use this.
+If you don't understand the implication of extending a native prototype \[[1](http://perfectionkills.com/extending-native-builtins/)\] \[[2](http://stackoverflow.com/questions/14034180/why-is-extending-native-objects-a-bad-practice)\], don't use this.
 
 ```javascript
 require('millis/register');
