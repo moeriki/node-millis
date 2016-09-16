@@ -16,9 +16,11 @@
   },
   "homepage": "https://github.com/Moeriki/millis#readme",
   "scripts": {
-    "test": "jest test.js"
+    "test": "jest test.js",
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "devDependencies": {
+    "coveralls": "2.11.13",
     "eslint": "3.5.0",
     "eslint-config-muriki": "4.2.0",
     "eslint-plugin-import": "1.14.0",

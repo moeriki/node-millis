@@ -2,7 +2,7 @@
 
 Millis is a set of functions that converts different measures (minutes, hours, etc..) to milliseconds.
 
-[![Build Status](https://travis-ci.org/Moeriki/millis.svg?branch=master)](https://travis-ci.org/Moeriki/millis) [![Known Vulnerabilities](https://snyk.io/test/github/moeriki/millis/badge.svg)](https://snyk.io/test/github/moeriki/millis)
+[![Build Status](https://travis-ci.org/Moeriki/millis.svg?branch=master)](https://travis-ci.org/Moeriki/millis) [![Coverage Status](https://coveralls.io/repos/github/Moeriki/millis/badge.svg?branch=master)](https://coveralls.io/github/Moeriki/millis?branch=master) [![Known Vulnerabilities](https://snyk.io/test/github/moeriki/millis/badge.svg)](https://snyk.io/test/github/moeriki/millis)
 
 ---
 
