@@ -18,6 +18,7 @@ const years = require('../years');
 const year = require('../year');
 
 const inSeconds = require('../inSeconds');
+const unix = require('../unix');
 
 const millis = require('../index');
 
@@ -55,4 +56,6 @@ it('should have the same logic singular as plural', () => {
 
 it('should export extras', () => {
   expect(millis.inSeconds).toBe(inSeconds);
+  expect(millis.unix).toBe(unix);
+  expect(inSeconds).toBe(unix);
 });

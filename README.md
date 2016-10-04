@@ -69,8 +69,8 @@ Because often timestamps are in unix format. You might need your duration in sec
 
 ```javascript
 const hours = require('millis/hours');
-const inSeconds = require('millis/inSeconds');
-const ONE_YEAR = 2 * hours() * inSeconds();
+const unix = require('millis/unix');
+const ONE_YEAR = 2 * unix() * hours();
 ```
 
 ### Extending Number prototype
@@ -81,5 +81,5 @@ If you don't understand the implication of extending a native prototype \[[1](ht
 require('millis/register');
 
 const TWO_DAYS = (2).days();
-const SIX_HOURS_IN_SECONDS = (6).hours().inSeconds();
+const SIX_HOURS = (6).unix().hours();
 ```

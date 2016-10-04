@@ -11,6 +11,7 @@ const months = require('./months');
 const years = require('./years');
 
 const inSeconds = require('./inSeconds');
+const unix = require('./unix');
 
 // private variables
 
@@ -33,5 +34,6 @@ module.exports = {
   year: years,
 
   inSeconds,
+  unix,
 
 };

@@ -5,5 +5,5 @@ const millis = require('../index');
 // tests
 
 it('should turn milleseconds into seconds', () => {
-  expect(millis.inSeconds(2000)).toBe(2);
+  expect(millis.unix(2000)).toBe(2);
 });
