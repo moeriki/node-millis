@@ -9,12 +9,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Moeriki/millis.git"
+    "url": "git+https://github.com/Moeriki/node-millis.git"
   },
   "bugs": {
-    "url": "https://github.com/Moeriki/millis/issues"
+    "url": "https://github.com/Moeriki/node-millis/issues"
   },
-  "homepage": "https://github.com/Moeriki/millis#readme",
+  "homepage": "https://github.com/Moeriki/node-millis#readme",
   "scripts": {
     "test": "jest test.js",
     "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
