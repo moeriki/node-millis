@@ -2,7 +2,7 @@
 
 Millis is a set of functions that converts different measures (minutes, hours, etc..) to milliseconds.
 
-[![Build Status](https://travis-ci.org/Moeriki/node-millis.svg?branch=master)](https://travis-ci.org/Moeriki/node-millis) [![Coverage Status](https://coveralls.io/repos/github/Moeriki/node-millis/badge.svg?branch=master)](https://coveralls.io/github/Moeriki/node-millis?branch=master) [![Known Vulnerabilities](https://snyk.io/test/github/moeriki/node-millis/badge.svg)](https://snyk.io/test/github/moeriki/node-millis) [![dependencies Status](https://david-dm.org/moeriki/node-millis/status.svg)](https://david-dm.org/moeriki/node-millis) [![Downloads](http://img.shields.io/npm/dm/node-millis.svg?style=flat)](https://www.npmjs.org/package/millis)
+[![Build Status](https://travis-ci.org/Moeriki/node-millis.svg?branch=master)](https://travis-ci.org/Moeriki/node-millis) [![Coverage Status](https://coveralls.io/repos/github/Moeriki/node-millis/badge.svg?branch=master)](https://coveralls.io/github/Moeriki/node-millis?branch=master) [![Known Vulnerabilities](https://snyk.io/test/github/moeriki/node-millis/badge.svg)](https://snyk.io/test/github/moeriki/node-millis) [![dependencies Status](https://david-dm.org/moeriki/node-millis/status.svg)](https://david-dm.org/moeriki/node-millis) [![Downloads](http://img.shields.io/npm/dm/millis.svg?style=flat)](https://www.npmjs.org/package/millis)
 
 ---
 
