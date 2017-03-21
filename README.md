@@ -1,8 +1,21 @@
-# Millis
-
-Millis is a set of functions that converts different measures (minutes, hours, etc..) to milliseconds.
-
-[![Build Status](https://travis-ci.org/Moeriki/node-millis.svg?branch=master)](https://travis-ci.org/Moeriki/node-millis) [![Coverage Status](https://coveralls.io/repos/github/Moeriki/node-millis/badge.svg?branch=master)](https://coveralls.io/github/Moeriki/node-millis?branch=master) [![Known Vulnerabilities](https://snyk.io/test/github/moeriki/node-millis/badge.svg)](https://snyk.io/test/github/moeriki/node-millis) [![dependencies Status](https://david-dm.org/moeriki/node-millis/status.svg)](https://david-dm.org/moeriki/node-millis) [![Downloads](http://img.shields.io/npm/dm/millis.svg?style=flat)](https://www.npmjs.org/package/millis)
+<p align="center">
+  <h3 align="center">millis</h3>
+  <p align="center">Convert different measures (minutes, hours, etc..) to milliseconds.<p>
+  <p align="center">
+    <a href="https://www.npmjs.com/package/millis">
+      <img src="https://img.shields.io/npm/v/millis.svg" alt="npm version">
+    </a>
+    <a href="https://travis-ci.org/Moeriki/node-millis">
+      <img src="https://travis-ci.org/Moeriki/node-millis.svg?branch=master" alt="Build Status"></img>
+    </a>
+    <a href="https://coveralls.io/github/Moeriki/node-millis?branch=master">
+      <img src="https://coveralls.io/repos/github/Moeriki/node-millis/badge.svg?branch=master" alt="Coverage Status"></img>
+    </a>
+    <a href="https://david-dm.org/moeriki/node-millis">
+      <img src="https://david-dm.org/moeriki/node-millis/status.svg" alt="dependencies Status"></img>
+    </a>
+  </p>
+</p>
 
 ---
 
