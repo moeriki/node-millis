@@ -1,11 +1,5 @@
 module.exports = {
   extends: [
-    'muriki/env/test',
+    'muriki/presets/jest',
   ],
-  env: {
-    jest: true,
-  },
-  rules: {
-    'no-magic-numbers': 0,
-  },
 };

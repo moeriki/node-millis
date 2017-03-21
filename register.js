@@ -1,5 +1,3 @@
-/* eslint no-extend-native:0 */
-
 'use strict';
 
 // modules

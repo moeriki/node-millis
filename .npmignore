@@ -1,6 +1,8 @@
+coverage/
 test/
 .editorconfig
 .eslintrc.js
 .gitignore
 .npmignore
-.npmrc
+.travis.yml
+yarn.lock
