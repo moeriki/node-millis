@@ -24,12 +24,12 @@
     "register-toggle": "^2.1.0"
   },
   "devDependencies": {
-    "coveralls": "^2.12.0",
-    "eslint": "^3.18.0",
-    "eslint-config-muriki": "^8.5.4",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jasmine": "^2.2.0",
-    "eslint-plugin-node": "^4.2.1",
-    "jest": "^19.0.2"
+    "coveralls": "3.0.5",
+    "eslint": "6.0.1",
+    "eslint-config-muriki": "10.0.1",
+    "eslint-plugin-import": "2.18.0",
+    "eslint-plugin-jasmine": "2.10.1",
+    "eslint-plugin-node": "9.1.0",
+    "jest": "24.8.0"
   }
 }
